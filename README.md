@@ -45,7 +45,7 @@ This project demonstrates how to evaluate a web-based LLM application by:
    Then edit `.env` with your actual API keys:
    ```bash
    OPENAI_API_KEY=your_openai_api_key_here
-   LANGCHAIN_API_KEY=your_langchain_api_key_here
+   LANGSMITH_API_KEY=your_langsmith_api_key_here
    ```
 
 ## Usage
